@@ -42,4 +42,7 @@
   <data name="TheTextBlock.Text" xml:space="preserve">
     <value>Default!</value>
   </data>
+  <data name="TheThirdTextBlock.Text" xml:space="preserve">
+    <value>one two three</value>
+  </data>
 </root>

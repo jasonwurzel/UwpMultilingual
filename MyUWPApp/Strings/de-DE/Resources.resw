@@ -15,4 +15,7 @@
   <data name="TheTextBlock.Text" xml:space="preserve">
     <value>Standard</value>
   </data>
+  <data name="TheThirdTextBlock.Text" xml:space="preserve">
+    <value>eins zwei drei</value>
+  </data>
 </root>

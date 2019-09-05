@@ -10,6 +10,10 @@
           <source>Default!</source>
           <target state="needs-review-translation" state-qualifier="tm-suggestion">Standard</target>
         </trans-unit>
+        <trans-unit id="TheThirdTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>one two three</source>
+          <target state="translated">eins zwei drei</target>
+        </trans-unit>
       </group>
     </body>
   </file>
