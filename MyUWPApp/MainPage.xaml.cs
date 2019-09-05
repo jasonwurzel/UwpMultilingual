@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
+using Windows.Globalization;
+using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
 namespace MyUWPApp
@@ -9,6 +11,7 @@ namespace MyUWPApp
         public MainPage()
         {
             this.InitializeComponent();
+            //Application.Current.
         }
     }
 }
