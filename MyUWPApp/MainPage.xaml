@@ -12,5 +12,6 @@
         <TextBlock x:Name="TheTextBlock" x:Uid="TheTextBlock" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <TextBlock x:Name="TheSecondTextBlock" x:Uid="TheSecondTextBlock" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <TextBlock x:Name="TheThirdTextBlock" x:Uid="TheThirdTextBlock" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <local:MyUserControl1 HorizontalAlignment="Right"/>
     </Grid>
 </Page>
