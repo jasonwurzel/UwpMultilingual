@@ -45,4 +45,7 @@
   <data name="TheThirdTextBlock.Text" xml:space="preserve">
     <value>one two three</value>
   </data>
+  <data name="MyUserControl1_TextBlock.Text" xml:space="preserve">
+    <value>UserControl Text123123ZZZ</value>
+  </data>
 </root>
