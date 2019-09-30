@@ -3,6 +3,7 @@ using System.Diagnostics;
 using Windows.Globalization;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
+using ClassLibrary1;
 
 namespace MyUWPApp
 {
@@ -11,6 +12,8 @@ namespace MyUWPApp
         public MainPage()
         {
             this.InitializeComponent();
+
+            var class1 = new Class1();
             //Application.Current.
         }
     }
